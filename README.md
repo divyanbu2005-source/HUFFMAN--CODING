@@ -42,7 +42,6 @@ To implement Huffman coding to compress the data using Python.
 
 
 
-
 # Print the characters and its huffmancode
 
 
